@@ -19,7 +19,7 @@ A simple file handling project written in C that stores criminal records in a te
 
 ## Saved Data (criminal.txt)
 
-![criminal.txt Screenshot](criminal.txt_screenshot.png)
+![criminal.txt Screenshot](criminal_txt_Screenshot.png)
 
 ## Output
 
