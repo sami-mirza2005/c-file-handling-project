@@ -4,25 +4,23 @@ A simple file handling project written in C that stores criminal records in a te
 
 ## Features
 
-* Store criminal records
-* Take user input
-* Save data into a file
-* Use file handling functions in C
+- Store criminal records
+- Take user input
+- Save data into a file
+- Use file handling functions in C
 
 ## Technologies Used
 
-* C Programming
+- C Programming
 
-## Data Stored
+## Program Input
 
-* Name
-* Age
-* Phone Number
-* Crime
-* Status
-* Address
+![Program Input](file_handling_input.png)
+
+## Program Output
+
+![Program Output](output_screenshot.png)
 
 ## Output
 
 The program collects criminal information from the user and saves it into a text file.
-
