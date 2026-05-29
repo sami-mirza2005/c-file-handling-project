@@ -13,13 +13,13 @@ A simple file handling project written in C that stores criminal records in a te
 
 - C Programming
 
-## Program Input
-
-![Program Input](file_handling_input.png)
-
 ## Program Output
 
 ![Program Output](output_screenshot.png)
+
+## Saved Data (criminal.txt)
+
+![criminal.txt Screenshot](criminal.txt_screenshot.png)
 
 ## Output
 
